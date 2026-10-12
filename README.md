@@ -232,3 +232,5 @@ jupyter lab notebooks/
 3. **Schuld, M., & Petruccione, F.** (2021). *Machine Learning with Quantum Computers.* Springer Nature.
 4. **Qiskit contributors.** (2025). *Qiskit: An Open-source Framework for Quantum Computing.* DOI: 10.5281/zenodo.2573505.
 5. **Bergholm, V., et al.** (2018). *PennyLane: Automatic differentiation and machine learning of quantum programs.* arXiv:1811.04968.
+#   q u a n t u m  
+ 
